@@ -14,7 +14,7 @@
 
 ## 🛠 Стек
 
-**Базы данных:** SQL · PostgreSQL · ClickHouse — оконные функции, CTE, оптимизация запросов
+**Базы данных:** SQL · PostgreSQL · ClickHouse 
 
 **Python:** Pandas · Numpy · Matplotlib · Seaborn · Plotly · Statsmodels
 
